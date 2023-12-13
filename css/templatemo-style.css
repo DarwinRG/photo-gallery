@@ -565,12 +565,16 @@ textarea {
 	border: #0a3d57 solid 3px;
 	box-sizing: border-box;
 }
+.grid-item:hover {
+	transform: scale(1.1); /* Add this line */
+}
 
 .grid-item img {
 	width: 400px;
 	height: 300px;
 	object-fit: cover;
 }
+
 
 .grid-item:last-child {
 	margin-bottom: 0;
