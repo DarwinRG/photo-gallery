@@ -565,8 +565,10 @@ textarea {
 	border: #0a3d57 solid 3px;
 	box-sizing: border-box;
 }
+
 .grid-item:hover {
-	transform: scale(1.1); /* Add this line */
+	transform: scale(1.1);
+	/* Add this line */
 }
 
 .grid-item img {
@@ -589,6 +591,7 @@ textarea {
 		margin: 0 auto;
 	}
 }
+
 
 .tm-img {
 	max-width: 320px;
