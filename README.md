@@ -1,7 +1,9 @@
 
 # DarwinRG VISUALS Photo Gallery
 
-A photo grallery website made for my final course output in Art Appreciation.
+This photo gallery webpage was created as my final project for an Art Appreciation course.
+
+It features a responsive layout with various photos that I captured. I built this using HTML, CSS, and JavaScript to showcase some dynamic and interactive elements.
 
 
 
